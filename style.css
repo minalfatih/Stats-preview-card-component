@@ -133,6 +133,6 @@ section div > span {
     display: flex;
   }
   .attribution {
-    bottom: -20px;
+    bottom: -50px;
   }
 }
